@@ -1,3 +1,6 @@
+v1.0.4, 15 Apr 2017 -- Update to support single-stream cameras and new OpenCV
+                       API
+
 v1.0.3, 8 Feb 2016 -- Add reference to tutorials
 
 v1.0.3, 14 January 2016 -- Fix botched merge

@@ -18,7 +18,7 @@
 from setuptools import setup
 
 setup(name="StereoVision",
-      version="1.0.3",
+      version="1.0.4",
       description=("Library and utilities for 3d reconstruction from stereo "
                    "cameras."),
       long_description=open("README.rst").read(),
